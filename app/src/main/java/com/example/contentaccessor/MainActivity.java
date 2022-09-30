@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         }*/
 
         ContentValues values1 =  new ContentValues();
-        values1.put(COL_1,"Ramya");
+        values1.put(COL_1,"Kanth");
         values1.put(COL_2, "97");
         values1.put(COL_0, 3);
 
